@@ -1,6 +1,17 @@
 # Döviz Volatilite Analizi
-
 Bu projede USD baz alınarak EUR, GBP, JPY ve TRY para birimlerinin performansı ve volatilitesi analiz edilmiştir.
+
+---
+
+## 🚀 Amaç
+
+Bu proje, finansal veriler üzerinde:
+- Veri toplama (API)
+- Veri işleme
+- Zaman serisi analizi
+- Görselleştirme
+
+becerilerini geliştirmek amacıyla yapılmıştır.
 
 ---
 
@@ -60,6 +71,8 @@ Trend (yükseliş/düşüş) ile volatilite (dalgalanma) farklı kavramlardır.
 
 ---
 
-## 📂 Proje Dosyası
+## 📊 Sonuçlar
 
-- `currency_volatility_analysis.ipynb` → Tüm analiz süreci ve grafikler
+- GBP ve EUR en yüksek volatiliteye sahip para birimleri olarak öne çıkmıştır.  
+- JPY orta seviyede dalgalanma göstermiştir.  
+- TRY ise daha düşük volatilite ile daha stabil bir görünüm sergilemiştir.  
